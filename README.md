@@ -10,16 +10,27 @@ My games has a procedurally-generated maze that is populated with enemys the sna
 Doom from 1993 https://en.wikipedia.org/wiki/Doom_(1993_video_game)
 
 Wolfenstein 3D https://en.wikipedia.org/wiki/Wolfenstein_3D
+
 https://kenney.nl/assets/blocky-characters
+
 https://freesound.org/people/gneube/sounds/315844/
+
 https://freesound.org/people/ProjectsU012/sounds/341695/
+
 https://kenney.nl/assets/platformer-kit
+
 The biggest discovry https://patrickdearteaga.com/royalty-free-music/
+
 piglevelwin2 https://freesound.org/people/Tuudurt/sounds/275104/
+
 grass texture https://ambientcg.com/view?id=Grass%20001
+
 Tile texture https://ambientcg.com/view?id=Tiles089
+
 https://kenney.nl/assets/blaster-kit
+
 https://opengameart.org/content/bullet-decal
+
 https://opengameart.org/content/muzzle-flash-with-model
 
 # future development 
