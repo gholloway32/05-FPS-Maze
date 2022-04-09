@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/bullet_hole.png-4fdf142a7d338d5f93cd9cfe3cfd7714.s3tc.stex"
-path.etc2="res://.import/bullet_hole.png-4fdf142a7d338d5f93cd9cfe3cfd7714.etc2.stex"
+path.s3tc="res://.import/muzzleflash.png-2b4051ead03d95c78b692aa8e5855600.s3tc.stex"
+path.etc2="res://.import/muzzleflash.png-2b4051ead03d95c78b692aa8e5855600.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Assests/bullet_hole.png"
-dest_files=[ "res://.import/bullet_hole.png-4fdf142a7d338d5f93cd9cfe3cfd7714.s3tc.stex", "res://.import/bullet_hole.png-4fdf142a7d338d5f93cd9cfe3cfd7714.etc2.stex" ]
+source_file="res://Assests/muzzleflash.png"
+dest_files=[ "res://.import/muzzleflash.png-2b4051ead03d95c78b692aa8e5855600.s3tc.stex", "res://.import/muzzleflash.png-2b4051ead03d95c78b692aa8e5855600.etc2.stex" ]
 
 [params]
 
