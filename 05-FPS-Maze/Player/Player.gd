@@ -13,6 +13,7 @@ onready var Decal = preload("res://Player/Decal.tscn")
 
 func _ready():
 	camera.current = true
+	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
 
 func _physics_process(delta):
 	velocity.y +=gravity * delta

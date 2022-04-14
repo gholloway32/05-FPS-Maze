@@ -15,10 +15,13 @@ func _unhandled_input(_event):
 		if menu != null:
 			if not menu.visible:
 				menu.show()
+				Input.set_mouse_mode(Input.MOUSE_MODE_VISIBLE)
 				get_tree().paused = true
 			else:
 				save_input()
 				menu.hide()
+				Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+				
 				get_tree().paused = false
 
 
